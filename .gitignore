@@ -5,3 +5,10 @@
 # 不提交
 **/iterations/*
 !**/iterations/_template/
+
+# 不提交
+**/test1/*
+!**/test1/docs/
+
+# 不提交
+**/test2/*
