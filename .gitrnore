@@ -1,0 +1,7 @@
+# 不提交
+**/docs/test_cases/*
+!**/docs/test_cases/.gitkeep
+
+# 不提交
+**/iterations/*
+!**/iterations/_template/
